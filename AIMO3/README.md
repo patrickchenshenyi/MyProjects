@@ -4,7 +4,7 @@ aimo3-my-baseline.ipynb
 
 aimo3-my-solution.ipynb
 - 给出了当前实现
-  - Chain of Thought + Tool Integrated Reasoning
+  - Tool Integrated Reasoning
   - 并行思维链 + 多样化采样
   - 简单多数投票
  
